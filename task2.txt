@@ -1,0 +1,12 @@
+Person name 	: Shiv
+age	 	: 30
+salary 	 	: 120000.00
+
+Person name 	: Parvati
+age	 	: 29
+salary 	 	: 23000.00
+
+Person name 	: Ganesh
+age	 	: 12
+salary 	 	: 8900.00
+

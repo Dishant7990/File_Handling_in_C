@@ -1,0 +1,15 @@
+Person name 	: Shiv
+Lastname 	: Shankar
+Age 	: 30
+Salary 	: 120000.00
+
+Person name 	: Parvati
+Lastname 	: Shiv
+Age 	: 29
+Salary 	: 23000.00
+
+Person name 	: Ganesh
+Lastname 	: Shiv
+Age 	: 12
+Salary 	: 8900.00
+
